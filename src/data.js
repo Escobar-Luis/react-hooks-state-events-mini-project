@@ -1,3 +1,4 @@
+//my categories are an array.
 export const CATEGORIES = ["All", "Code", "Food", "Money", "Misc"];
 
 export const TASKS = [
